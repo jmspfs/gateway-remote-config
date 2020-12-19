@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE048513",
+    "servers": [
+      {
+        "server_address": "jpsantos.ddns.net",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 38.836463427161405,
+    "ref_longitude": -9.367921093421756,
+    "ref_altitude": 160,
+    
+    "contact_email": "joao.paiva.santos@gmail.com",
+    "description": "TTN JSantos Vila Verde.pt"
+  }
+}
